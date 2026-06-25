@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Translator",
+  "version": "1.0",
+  "description": "Автоматичний переклад повідомлень у браузері",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
